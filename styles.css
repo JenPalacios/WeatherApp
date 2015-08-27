@@ -1,0 +1,51 @@
+#main-container{
+  background-image: url(clouds.jpg);
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+}
+
+#text {
+  text-align: center;
+}
+
+#title {
+  color: white;
+  font-size: 5em;
+  text-shadow: 2px 2px grey;
+ }
+
+p.lead {
+  color: #1c1b1b;
+  font-size: 1.5em;
+}
+
+#city {
+  height: 50px;
+}
+
+#button {
+  margin-top: 10px;
+}
+
+#success {
+  margin-top: 20px;
+  background-color: white;
+  font-size: 2em;
+  color: #1c1b1b;
+  display: none;
+}
+
+#fail {
+  margin-top: 20px;
+  font-size: 2em;
+  color: #1c1b1b;
+  display: none;
+}
+
+#noCity {
+  margin-top: 20px;
+  font-size: 2em;
+  color: #1c1b1b;
+  display: none;
+}
