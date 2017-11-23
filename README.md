@@ -1,5 +1,6 @@
 # WeatherApp
-Weather app can be viewed on the temporary server >> http://217.199.187.200/jenciostest.com/weatherapp/
+
+Nothing fancy here, just a weather scrapper. You can run `index.php` and should see how this works.
 
 <strong>Tecnhology used:</strong>
 
